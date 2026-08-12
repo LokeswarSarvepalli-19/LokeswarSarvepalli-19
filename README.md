@@ -1,8 +1,11 @@
 Hi 👋, I'm Sarvepalli Lokeswar
 
-🎓 B.Tech Computer Science Engineering Graduate (2026),
+🎓 B.Tech Computer Science Engineering Graduate (2026),                           
+
 💻 Java & Python Full Stack Developer,
+
 📊 Aspiring Software Developer | Python Enthusiast,
+
 📍 Bangalore, India.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
