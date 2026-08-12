@@ -1,13 +1,13 @@
 Hi 👋, I'm Sarvepalli Lokeswar
 
-🎓 **B.Tech Computer Science Engineering Graduate (2026)**
-💻 **Java & Python Full Stack Developer**
-📊 **Aspiring Software Developer | Python Enthusiast**
-📍 **Bangalore, India**
+🎓 B.Tech Computer Science Engineering Graduate (2026),
+💻 Java & Python Full Stack Developer,
+📊 Aspiring Software Developer | Python Enthusiast,
+📍 Bangalore, India.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 👨‍💻 About Me
+👨‍💻 About Me
 
 * 🎓 Recent B.Tech graduate in Computer Science Engineering
 * 💻 Skilled in Java, Python, JavaScript, HTML, CSS and MySQL
